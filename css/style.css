@@ -104,6 +104,10 @@ a {
   display: none;
 }
 
+#skills li {
+  width: 100%;
+}
+
 .orange {
   background-color: #f5ae23;
 }
@@ -211,4 +215,11 @@ span {
   .biopic {
     display: block;
   }
+}
+
+#topContacts {
+  justify-content: left;
+}
+#topContacts li {
+  width: 33%;
 }
